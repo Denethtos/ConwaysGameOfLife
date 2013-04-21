@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1366512135 source:c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\main.cpp
+	"Game.h"
+
+1366514764 source:c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\cell.cpp
+	"Cell.h"
+
+1366513433 c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\cell.h
+	<SDL/SDL.h>
+
+1366528224 source:c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\field.cpp
+	"Field.h"
+
+1366528279 c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\field.h
+	<SDL/SDL.h>
+
+1366522572 source:c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\game.cpp
+	"Game.h"
+
+1366522442 c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\game.h
+	"Field.h"
+
+1366522510 source:c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\gamecleanup.cpp
+	"Game.h"
+
+1366521475 source:c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\gameevent.cpp
+	"Game.h"
+
+1366522497 source:c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\gameinit.cpp
+	"Game.h"
+
+1366526052 source:c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\gameloop.cpp
+	"Game.h"
+
+1366526004 source:c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\gamerender.cpp
+	"Game.h"
+
+1366450305 c:\users\tobi\desktop\multi-media\c++\projects\conwaysgameoflife\game.cpp
+	"Game.h"
+
